@@ -1,0 +1,606 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.6.13)  26 JAN 2018 07:08
+entering extended mode
+**./Instalation.tex
+(Instalation.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 76 language(s) loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen112
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks18
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks19
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(Instalation.aux)
+\openout1 = `Instalation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen122
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks23
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+<Images/Win32_1.jpg, id=1, 420.06938pt x 322.20375pt>
+File: Images/Win32_1.jpg Graphic file (type jpg)
+ <use Images/Win32_1.jpg>
+Package pdftex.def Info: Images/Win32_1.jpg used on input line 16.
+(pdftex.def)             Requested size: 195.0pt x 149.56754pt.
+
+<Images/Win32_2.jpg, id=2, 470.50781pt x 346.29375pt>
+File: Images/Win32_2.jpg Graphic file (type jpg)
+ <use Images/Win32_2.jpg>
+Package pdftex.def Info: Images/Win32_2.jpg used on input line 24.
+(pdftex.def)             Requested size: 195.0pt x 143.519pt.
+
+<Images/Win32_3.jpg, id=3, 437.38406pt x 330.48468pt>
+File: Images/Win32_3.jpg Graphic file (type jpg)
+ <use Images/Win32_3.jpg>
+Package pdftex.def Info: Images/Win32_3.jpg used on input line 32.
+(pdftex.def)             Requested size: 195.0pt x 147.34004pt.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Images/Win32_1.jpg> <./
+Images/Win32_2.jpg>] <Images/Win32_4.jpg, id=10, 443.40656pt x 321.45094pt>
+File: Images/Win32_4.jpg Graphic file (type jpg)
+
+<use Images/Win32_4.jpg>
+Package pdftex.def Info: Images/Win32_4.jpg used on input line 40.
+(pdftex.def)             Requested size: 195.0pt x 141.37018pt.
+
+<Images/Win32_5.jpg, id=11, 414.04688pt x 324.46219pt>
+File: Images/Win32_5.jpg Graphic file (type jpg)
+
+<use Images/Win32_5.jpg>
+Package pdftex.def Info: Images/Win32_5.jpg used on input line 48.
+(pdftex.def)             Requested size: 195.0pt x 152.81409pt.
+ [2 <./Images/Win32_3.jpg> <./Images/Win32_4.jpg>]
+<Images/Win32_6.jpg, id=15, 411.03563pt x 321.45094pt>
+File: Images/Win32_6.jpg Graphic file (type jpg)
+
+<use Images/Win32_6.jpg>
+Package pdftex.def Info: Images/Win32_6.jpg used on input line 56.
+(pdftex.def)             Requested size: 195.0pt x 152.49948pt.
+
+<Images/Win32_7.jpg, id=16, 414.79968pt x 291.33844pt>
+File: Images/Win32_7.jpg Graphic file (type jpg)
+
+<use Images/Win32_7.jpg>
+Package pdftex.def Info: Images/Win32_7.jpg used on input line 64.
+(pdftex.def)             Requested size: 195.0pt x 136.96019pt.
+ [3 <./Images/Win32_5.jpg> <./Images/Win32_6.jpg>]
+<Images/Win32_8.jpg, id=20, 643.6547pt x 478.03593pt>
+File: Images/Win32_8.jpg Graphic file (type jpg)
+ <use Images/Win32_8.jpg>
+Package pdftex.def Info: Images/Win32_8.jpg used on input line 72.
+(pdftex.def)             Requested size: 195.0pt x 144.82697pt.
+
+<Images/Win32_9.jpg, id=21, 402.00188pt x 298.11375pt>
+File: Images/Win32_9.jpg Graphic file (type jpg)
+
+<use Images/Win32_9.jpg>
+Package pdftex.def Info: Images/Win32_9.jpg used on input line 80.
+(pdftex.def)             Requested size: 195.0pt x 144.60318pt.
+ [4 <./Images/Win32_7.jpg> <./Images/Win32_8.jpg>]
+<Images/Win32_10.jpg, id=25, 407.27156pt x 288.3272pt>
+File: Images/Win32_10.jpg Graphic file (type jpg)
+
+<use Images/Win32_10.jpg>
+Package pdftex.def Info: Images/Win32_10.jpg used on input line 88.
+(pdftex.def)             Requested size: 195.0pt x 138.04791pt.
+
+<Images/Win32_11.jpg, id=26, 401.24907pt x 288.3272pt>
+File: Images/Win32_11.jpg Graphic file (type jpg)
+
+<use Images/Win32_11.jpg>
+Package pdftex.def Info: Images/Win32_11.jpg used on input line 96.
+(pdftex.def)             Requested size: 195.0pt x 140.12448pt.
+ [5 <./Images/Win32_9.jpg> <./Images/Win32_10.jpg>]
+
+LaTeX Warning: Reference `fig:12' on page 6 undefined on input line 101.
+
+<Images/Win32_12.jpg, id=30, 402.75468pt x 294.34969pt>
+File: Images/Win32_12.jpg Graphic file (type jpg)
+
+<use Images/Win32_12.jpg>
+Package pdftex.def Info: Images/Win32_12.jpg used on input line 104.
+(pdftex.def)             Requested size: 195.0pt x 142.51239pt.
+ <Images/Ras_1.jpg, id=31, 675.27281pt x 509.65407pt>
+File: Images/Ras_1.jpg Graphic file (type jpg)
+
+<use Images/Ras_1.jpg>
+Package pdftex.def Info: Images/Ras_1.jpg used on input line 115.
+(pdftex.def)             Requested size: 350.99762pt x 264.91277pt.
+ <Images/Ras_1,1.jpg, id=32, 828.84656pt x 469.00218pt>
+File: Images/Ras_1,1.jpg Graphic file (type jpg)
+
+<use Images/Ras_1,1.jpg>
+Package pdftex.def Info: Images/Ras_1,1.jpg used on input line 122.
+(pdftex.def)             Requested size: 350.99762pt x 198.61122pt.
+ [6 <./Images/Win32_11.jpg> <./Images/Win32_12.jpg>]
+[7 <./Images/Ras_1.jpg>]
+<Images/Ras_1,2.jpg, id=40, 801.74532pt x 520.19344pt>
+File: Images/Ras_1,2.jpg Graphic file (type jpg)
+
+<use Images/Ras_1,2.jpg>
+Package pdftex.def Info: Images/Ras_1,2.jpg used on input line 130.
+(pdftex.def)             Requested size: 350.99762pt x 227.74281pt.
+
+<Images/Ras_1,3.jpg, id=41, 581.92406pt x 407.27156pt>
+File: Images/Ras_1,3.jpg Graphic file (type jpg)
+
+<use Images/Ras_1,3.jpg>
+Package pdftex.def Info: Images/Ras_1,3.jpg used on input line 138.
+(pdftex.def)             Requested size: 350.99762pt x 245.65741pt.
+ [8 <./Images/Ras_1,1.jpg> <./Images/Ras_1,2.jpg>]
+<Images/Ras_3.jpg, id=45, 612.78937pt x 368.87813pt>
+File: Images/Ras_3.jpg Graphic file (type jpg)
+ <use Images/Ras_3.jpg>
+Package pdftex.def Info: Images/Ras_3.jpg used on input line 146.
+(pdftex.def)             Requested size: 350.99762pt x 211.28711pt.
+
+[9 <./Images/Ras_1,3.jpg>]
+<Images/Ras_4.jpg, id=49, 203.25937pt x 293.59688pt>
+File: Images/Ras_4.jpg Graphic file (type jpg)
+ <use Images/Ras_4.jpg>
+Package pdftex.def Info: Images/Ras_4.jpg used on input line 154.
+(pdftex.def)             Requested size: 350.99762pt x 507.01512pt.
+
+[10 <./Images/Ras_3.jpg>] <Images/Ras_5.jpg, id=53, 532.99126pt x 54.2025pt>
+File: Images/Ras_5.jpg Graphic file (type jpg)
+
+<use Images/Ras_5.jpg>
+Package pdftex.def Info: Images/Ras_5.jpg used on input line 162.
+(pdftex.def)             Requested size: 350.99762pt x 35.696pt.
+ [11 <./Images/Ras_4.jpg>]
+<Images/Ras_6.jpg, id=57, 396.7322pt x 381.67593pt>
+File: Images/Ras_6.jpg Graphic file (type jpg)
+ <use Images/Ras_6.jpg>
+Package pdftex.def Info: Images/Ras_6.jpg used on input line 170.
+(pdftex.def)             Requested size: 350.99762pt x 337.68709pt.
+
+<Images/Ras_7.jpg, id=58, 366.61969pt x 309.40594pt>
+File: Images/Ras_7.jpg Graphic file (type jpg)
+ <use Images/Ras_7.jpg>
+Package pdftex.def Info: Images/Ras_7.jpg used on input line 178.
+(pdftex.def)             Requested size: 350.99762pt x 296.23788pt.
+
+[12 <./Images/Ras_5.jpg> <./Images/Ras_6.jpg>]
+<Images/Ras_8.jpg, id=62, 544.28343pt x 348.55219pt>
+File: Images/Ras_8.jpg Graphic file (type jpg)
+ <use Images/Ras_8.jpg>
+Package pdftex.def Info: Images/Ras_8.jpg used on input line 186.
+(pdftex.def)             Requested size: 350.99762pt x 224.77454pt.
+
+[13 <./Images/Ras_7.jpg>] <Images/Ras_9.jpg, id=67, 541.27219pt x 348.55219pt>
+File: Images/Ras_9.jpg Graphic file (type jpg)
+
+<use Images/Ras_9.jpg>
+Package pdftex.def Info: Images/Ras_9.jpg used on input line 194.
+(pdftex.def)             Requested size: 350.99762pt x 226.0297pt.
+ [14 <./Images/Ras_8.jpg>]
+<Images/Ras_10.jpg, id=71, 536.75531pt x 351.56343pt>
+File: Images/Ras_10.jpg Graphic file (type jpg)
+ <use Images/Ras_10.jpg>
+Package pdftex.def Info: Images/Ras_10.jpg used on input line 202.
+(pdftex.def)             Requested size: 350.99762pt x 229.89754pt.
+
+[15 <./Images/Ras_9.jpg>]
+<Images/Ras_11.jpg, id=75, 538.26094pt x 354.57469pt>
+File: Images/Ras_11.jpg Graphic file (type jpg)
+ <use Images/Ras_11.jpg>
+Package pdftex.def Info: Images/Ras_11.jpg used on input line 210.
+(pdftex.def)             Requested size: 350.99762pt x 231.21744pt.
+
+[16 <./Images/Ras_10.jpg>]
+<Images/Ras_12.jpg, id=79, 544.28343pt x 351.56343pt>
+File: Images/Ras_12.jpg Graphic file (type jpg)
+ <use Images/Ras_12.jpg>
+Package pdftex.def Info: Images/Ras_12.jpg used on input line 218.
+(pdftex.def)             Requested size: 350.99762pt x 226.71643pt.
+
+[17 <./Images/Ras_11.jpg>]
+<Images/Ras_13.jpg, id=83, 526.21594pt x 342.5297pt>
+File: Images/Ras_13.jpg Graphic file (type jpg)
+ <use Images/Ras_13.jpg>
+Package pdftex.def Info: Images/Ras_13.jpg used on input line 226.
+(pdftex.def)             Requested size: 350.99762pt x 228.48497pt.
+
+[18 <./Images/Ras_12.jpg>]
+<Images/Ras_14.jpg, id=87, 568.37344pt x 357.58594pt>
+File: Images/Ras_14.jpg Graphic file (type jpg)
+ <use Images/Ras_14.jpg>
+Package pdftex.def Info: Images/Ras_14.jpg used on input line 234.
+(pdftex.def)             Requested size: 350.99762pt x 220.83342pt.
+
+[19 <./Images/Ras_13.jpg>]
+<Images/Ras_15.jpg, id=92, 539.76656pt x 351.56343pt>
+File: Images/Ras_15.jpg Graphic file (type jpg)
+ <use Images/Ras_15.jpg>
+Package pdftex.def Info: Images/Ras_15.jpg used on input line 242.
+(pdftex.def)             Requested size: 350.99762pt x 228.61543pt.
+
+[20 <./Images/Ras_14.jpg>]
+<Images/Ras_16.jpg, id=96, 554.82281pt x 371.13657pt>
+File: Images/Ras_16.jpg Graphic file (type jpg)
+ <use Images/Ras_16.jpg>
+Package pdftex.def Info: Images/Ras_16.jpg used on input line 250.
+(pdftex.def)             Requested size: 350.99762pt x 234.79132pt.
+
+[21 <./Images/Ras_15.jpg>]
+<Images/Ras_17.jpg, id=100, 562.35094pt x 365.11406pt>
+File: Images/Ras_17.jpg Graphic file (type jpg)
+ <use Images/Ras_17.jpg>
+Package pdftex.def Info: Images/Ras_17.jpg used on input line 258.
+(pdftex.def)             Requested size: 350.99762pt x 227.8893pt.
+
+[22 <./Images/Ras_16.jpg>]
+<Images/Ras_18.jpg, id=104, 535.2497pt x 344.03531pt>
+File: Images/Ras_18.jpg Graphic file (type jpg)
+ <use Images/Ras_18.jpg>
+Package pdftex.def Info: Images/Ras_18.jpg used on input line 266.
+(pdftex.def)             Requested size: 350.99762pt x 225.61513pt.
+
+[23 <./Images/Ras_17.jpg>]
+<Images/Ras_19.jpg, id=108, 1044.90375pt x 534.49687pt>
+File: Images/Ras_19.jpg Graphic file (type jpg)
+
+<use Images/Ras_19.jpg>
+Package pdftex.def Info: Images/Ras_19.jpg used on input line 274.
+(pdftex.def)             Requested size: 350.99762pt x 179.54893pt.
+ <Images/Ras_20.jpg, id=109, 545.78906pt x 350.05782pt>
+File: Images/Ras_20.jpg Graphic file (type jpg)
+
+<use Images/Ras_20.jpg>
+Package pdftex.def Info: Images/Ras_20.jpg used on input line 282.
+(pdftex.def)             Requested size: 350.99762pt x 225.12054pt.
+ [24 <./Images/Ras_18.jpg> <./Images/Ras_19.jpg>]
+<Images/Ras_21.jpg, id=113, 544.28343pt x 383.18156pt>
+File: Images/Ras_21.jpg Graphic file (type jpg)
+ <use Images/Ras_21.jpg>
+Package pdftex.def Info: Images/Ras_21.jpg used on input line 290.
+(pdftex.def)             Requested size: 350.99762pt x 247.10635pt.
+
+Overfull \hbox (1.74881pt too wide) in paragraph at lines 287--294
+[]\OT1/cmr/m/n/12 Next in-stall MySQL Server with the com-mand "sudo apt-get in
+-stall mysql-
+ []
+
+[25 <./Images/Ras_20.jpg>]
+<Images/Ras_22.jpg, id=118, 545.78906pt x 362.10281pt>
+File: Images/Ras_22.jpg Graphic file (type jpg)
+ <use Images/Ras_22.jpg>
+Package pdftex.def Info: Images/Ras_22.jpg used on input line 298.
+(pdftex.def)             Requested size: 350.99762pt x 232.86662pt.
+
+Overfull \hbox (0.76965pt too wide) in paragraph at lines 295--302
+[]\OT1/cmr/m/n/12 Next in-stall MySQL Client with the com-mand "sudo apt-get in
+-stall mysql-
+ []
+
+[26 <./Images/Ras_21.jpg>]
+<Images/Ras_23.jpg, id=122, 556.32843pt x 384.6872pt>
+File: Images/Ras_23.jpg Graphic file (type jpg)
+ <use Images/Ras_23.jpg>
+Package pdftex.def Info: Images/Ras_23.jpg used on input line 306.
+(pdftex.def)             Requested size: 350.99762pt x 242.71227pt.
+
+[27 <./Images/Ras_22.jpg>]
+<Images/Ras_24.jpg, id=126, 539.76656pt x 359.09157pt>
+File: Images/Ras_24.jpg Graphic file (type jpg)
+ <use Images/Ras_24.jpg>
+Package pdftex.def Info: Images/Ras_24.jpg used on input line 314.
+(pdftex.def)             Requested size: 350.99762pt x 233.51085pt.
+
+[28 <./Images/Ras_23.jpg>]
+<Images/Ras_25.jpg, id=130, 536.75531pt x 369.63094pt>
+File: Images/Ras_25.jpg Graphic file (type jpg)
+ <use Images/Ras_25.jpg>
+Package pdftex.def Info: Images/Ras_25.jpg used on input line 322.
+(pdftex.def)             Requested size: 350.99762pt x 241.7124pt.
+
+<Images/Ras_26.jpg, id=131, 535.2497pt x 371.13657pt>
+File: Images/Ras_26.jpg Graphic file (type jpg)
+ <use Images/Ras_26.jpg>
+Package pdftex.def Info: Images/Ras_26.jpg used on input line 329.
+(pdftex.def)             Requested size: 350.99762pt x 243.38786pt.
+
+[29 <./Images/Ras_24.jpg>] [30 <./Images/Ras_25.jpg>]
+<Images/Ras_29.jpg, id=138, 338.01282pt x 51.19125pt>
+File: Images/Ras_29.jpg Graphic file (type jpg)
+ <use Images/Ras_29.jpg>
+Package pdftex.def Info: Images/Ras_29.jpg used on input line 337.
+(pdftex.def)             Requested size: 350.99762pt x 53.15952pt.
+
+<Images/Ras_30.jpg, id=139, 533.74406pt x 365.11406pt>
+File: Images/Ras_30.jpg Graphic file (type jpg)
+ <use Images/Ras_30.jpg>
+Package pdftex.def Info: Images/Ras_30.jpg used on input line 345.
+(pdftex.def)             Requested size: 350.99762pt x 240.11249pt.
+
+[31 <./Images/Ras_26.jpg> <./Images/Ras_29.jpg>]
+<Images/Ras_31.jpg, id=144, 510.708pt x 322.20375pt>
+File: Images/Ras_31.jpg Graphic file (type jpg)
+ <use Images/Ras_31.jpg>
+Package pdftex.def Info: Images/Ras_31.jpg used on input line 353.
+(pdftex.def)             Requested size: 350.99762pt x 221.4506pt.
+
+[32 <./Images/Ras_30.jpg>]
+<Images/Ras_32.jpg, id=148, 515.526pt x 323.40825pt>
+File: Images/Ras_32.jpg Graphic file (type jpg)
+ <use Images/Ras_32.jpg>
+Package pdftex.def Info: Images/Ras_32.jpg used on input line 361.
+(pdftex.def)             Requested size: 350.99762pt x 220.2009pt.
+
+[33 <./Images/Ras_31.jpg>] <Images/Ras_33.jpg, id=152, 511.9125pt x 322.806pt>
+File: Images/Ras_33.jpg Graphic file (type jpg)
+
+<use Images/Ras_33.jpg>
+Package pdftex.def Info: Images/Ras_33.jpg used on input line 369.
+(pdftex.def)             Requested size: 350.99762pt x 221.33257pt.
+ [34 <./Images/Ras_32.jpg>]
+<Images/Ras_34.jpg, id=156, 515.526pt x 326.4195pt>
+File: Images/Ras_34.jpg Graphic file (type jpg)
+ <use Images/Ras_34.jpg>
+Package pdftex.def Info: Images/Ras_34.jpg used on input line 377.
+(pdftex.def)             Requested size: 350.99762pt x 222.25119pt.
+
+[35 <./Images/Ras_33.jpg>] <Images/Ras_35.jpg, id=160, 513.117pt x 46.9755pt>
+File: Images/Ras_35.jpg Graphic file (type jpg)
+
+<use Images/Ras_35.jpg>
+Package pdftex.def Info: Images/Ras_35.jpg used on input line 385.
+(pdftex.def)             Requested size: 350.99762pt x 32.13428pt.
+ <Images/Ras_36.jpg, id=161, 523.35526pt x 416.15475pt>
+File: Images/Ras_36.jpg Graphic file (type jpg)
+
+<use Images/Ras_36.jpg>
+Package pdftex.def Info: Images/Ras_36.jpg used on input line 393.
+(pdftex.def)             Requested size: 350.99762pt x 279.10162pt.
+ [36 <./Images/Ras_34.jpg> <./Images/Ras_35.jpg>]
+<Images/Ras_38.jpg, id=165, 389.0535pt x 433.01775pt>
+File: Images/Ras_38.jpg Graphic file (type jpg)
+ <use Images/Ras_38.jpg>
+Package pdftex.def Info: Images/Ras_38.jpg used on input line 401.
+(pdftex.def)             Requested size: 350.99762pt x 390.67703pt.
+
+<Images/Ras_37.jpg, id=166, 517.33275pt x 412.54124pt>
+File: Images/Ras_37.jpg Graphic file (type jpg)
+ <use Images/Ras_37.jpg>
+Package pdftex.def Info: Images/Ras_37.jpg used on input line 408.
+(pdftex.def)             Requested size: 350.99762pt x 279.90744pt.
+
+[37 <./Images/Ras_36.jpg>] [38 <./Images/Ras_38.jpg>]
+<Images/Ras_39.jpg, id=174, 451.6875pt x 39.14626pt>
+File: Images/Ras_39.jpg Graphic file (type jpg)
+ <use Images/Ras_39.jpg>
+Package pdftex.def Info: Images/Ras_39.jpg used on input line 416.
+(pdftex.def)             Requested size: 350.99762pt x 30.42165pt.
+
+<Images/Ras_40.jpg, id=175, 487.8225pt x 28.30576pt>
+File: Images/Ras_40.jpg Graphic file (type jpg)
+ <use Images/Ras_40.jpg>
+Package pdftex.def Info: Images/Ras_40.jpg used on input line 423.
+(pdftex.def)             Requested size: 350.99762pt x 20.36673pt.
+
+[39 <./Images/Ras_37.jpg> <./Images/Ras_39.jpg> <./Images/Ras_40.jpg>] [40]
+(Instalation.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3557 strings out of 493319
+ 54391 string characters out of 3136337
+ 113438 words of memory out of 3000000
+ 7033 multiletter control sequences out of 15000+200000
+ 4851 words of font info for 18 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,6n,40p,320b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Instalation.pdf (40 pages, 4825280 bytes).
+PDF statistics:
+ 192 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+

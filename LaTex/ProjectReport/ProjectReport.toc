@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {subsection}{\numberline {1.1}Project aims}{5}
+\contentsline {section}{\numberline {2}Analysis and design}{7}
+\contentsline {subsection}{\numberline {2.1}Existing implementations}{7}
+\contentsline {subsubsection}{\numberline {2.1.1}Biotronik Home Monitoring}{8}
+\contentsline {subsubsection}{\numberline {2.1.2}Boston Scientific LATITUDE NXT}{8}
+\contentsline {subsubsection}{\numberline {2.1.3}A\&D Medical, Wellness Connected}{9}
+\contentsline {subsubsection}{\numberline {2.1.4}GE Healthcare, Apex Pro CH}{10}
+\contentsline {subsection}{\numberline {2.2}User expectations}{12}
+\contentsline {subsection}{\numberline {2.3}Proposed design}{12}
+\contentsline {subsubsection}{\numberline {2.3.1}Wearable device design}{14}
+\contentsline {subsubsection}{\numberline {2.3.2}Server design}{14}
+\contentsline {subsubsection}{\numberline {2.3.3}Displaying the data}{15}
+\contentsline {section}{\numberline {3}Internal specification}{18}
+\contentsline {subsection}{\numberline {3.1}C}{18}
+\contentsline {subsubsection}{\numberline {3.1.1}Collecting ECG data}{19}
+\contentsline {subsubsection}{\numberline {3.1.2}Collecting Pedometer data}{20}
+\contentsline {subsubsection}{\numberline {3.1.3}Sending data}{21}
+\contentsline {subsection}{\numberline {3.2}PHP}{22}
+\contentsline {subsection}{\numberline {3.3}SQL}{22}
+\contentsline {subsection}{\numberline {3.4}C\#}{23}
+\contentsline {section}{\numberline {4}External specification}{26}
+\contentsline {section}{\numberline {5}Testing and Results}{30}
+\contentsline {section}{\numberline {6}Summary and Conclusion}{31}
